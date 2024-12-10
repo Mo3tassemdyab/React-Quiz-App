@@ -6,3 +6,6 @@ I developed a React-based quiz project using the useReducer hook for state manag
 
 ## API used
 ### Fake API ==> http://localhost:8000/questions
+
+
+# ScreenShots
