@@ -21,3 +21,8 @@ I developed a React-based quiz project using the useReducer hook for state manag
 
 4-
 ![quiz4](https://github.com/user-attachments/assets/fafcb88a-211d-4739-bf6a-63665ee8e314)
+
+5-
+![quiz5](https://github.com/user-attachments/assets/92aa1a2a-742e-4f85-ae9a-17e410f9d287)
+
+
