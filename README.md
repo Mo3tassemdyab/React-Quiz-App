@@ -5,3 +5,4 @@ I developed a React-based quiz project using the useReducer hook for state manag
  ## Visit Now ==>  https://the-react-quiz-app1.netlify.app/
 
 ## API used
+### Fake API ==> http://localhost:8000/questions
