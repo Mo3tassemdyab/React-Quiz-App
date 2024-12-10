@@ -9,3 +9,9 @@ I developed a React-based quiz project using the useReducer hook for state manag
 
 
 # ScreenShots
+
+1-
+![quiz1](https://github.com/user-attachments/assets/d3511251-e69b-4ea1-b4cb-b7fb171d81bc)
+
+2-
+![quiz2](https://github.com/user-attachments/assets/e7bd28fb-265c-4351-9bd7-491fc3094123)
